@@ -33,7 +33,10 @@ export default function Footer() {
                                 <Link to={'/about'} className="text-gray-600 hover:text-gray-800">About</Link>
                             </li>
                             <li>
-                                <Link to={'/contact'} className="text-gray-600 hover:text-gray-800" >Return policy</Link>
+                                <Link to={'/Return'} className="text-gray-600 hover:text-gray-800" >Return policy</Link>
+                            </li>
+                            <li>
+                                <Link to={'/Term'} className="text-gray-600 hover:text-gray-800" >Terms of Services</Link>
                             </li>
                         </nav>
                     </div>

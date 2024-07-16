@@ -35,6 +35,12 @@ const ContactUs = lazy(() => import('./components/contact/ContactUs'));
 
 const PrivacyPolicy = lazy(() => import('./components/privacypolicy/PrivacyPolicy'));
 
+const Term = lazy(() => import('./components/term/Term'));
+
+const Return = lazy(() => import('./components/returnpolicy/Return'));
+
+
+
 
 
 
@@ -87,6 +93,11 @@ function App() {
           } />
           <Route path='/contactus' element={<ContactUs/>} />
           <Route path='/PrivacyPolicy' element={<PrivacyPolicy/>} />
+          <Route path='/Term' element={<Term/>} />
+          <Route path='/Return' element={<Return/>} />
+
+
+          
           <Route path='/*' element={<Nopage/>} />
         </Routes>
         <Toaster/>
