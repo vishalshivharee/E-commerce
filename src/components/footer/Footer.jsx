@@ -27,13 +27,13 @@ export default function Footer() {
                         <h2 className="title-font font-medium text-gray-900 tracking-widest text-sm mb-3 uppercase" >Customer Service</h2>
                         <nav className="list-none mb-10">
                             <li>
-                                <Link to={'/returnpolicy'} className="text-gray-600 hover:text-gray-800" >Return Policy</Link>
+                                <Link to={'/ContactUs'} className="text-gray-600 hover:text-gray-800" >Contact Us</Link>
                             </li>
                             <li>
                                 <Link to={'/about'} className="text-gray-600 hover:text-gray-800">About</Link>
                             </li>
                             <li>
-                                <Link to={'/contact'} className="text-gray-600 hover:text-gray-800" >Contact Us</Link>
+                                <Link to={'/contact'} className="text-gray-600 hover:text-gray-800" >Return policy</Link>
                             </li>
                         </nav>
                     </div>
@@ -42,7 +42,7 @@ export default function Footer() {
                         <h2 className="title-font font-medium text-gray-900 tracking-widest text-sm mb-3" >Services</h2>
                         <nav className="list-none mb-10">
                             <li>
-                                <Link to={'/privacypolicy'} className="text-gray-600 hover:text-gray-800" >Privacy</Link>
+                                <Link to={'/privacypolicy'} className="text-gray-600 hover:text-gray-800" >Privacy policy</Link>
                             </li>
 
                         </nav>
@@ -61,9 +61,11 @@ export default function Footer() {
                             <h1 className=' text-2xl font-bold text-black  px-2 py-1 rounded'>Dimpy-Collection</h1>
                         </div>
                     </Link>
+
                     <p className="text-sm text-gray-500 sm:ml-6 sm:mt-0 mt-4" >© 2023 Dimpy-Collection —
                         <a href="https://twitter.com/knyttneve" rel="noopener noreferrer" className="text-gray-600 ml-1" target="_blank" >www.dimpycollection.com</a>
                     </p>
+
                     <span className="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
                         <a className="text-gray-500">
                             <svg fill="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} className="w-5 h-5" viewBox="0 0 24 24">

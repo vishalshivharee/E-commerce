@@ -31,6 +31,12 @@ const AddProduct = lazy(() => import('./pages/admin/page/AddProduct'));
 
 const UpdateProduct = lazy(() => import('./pages/admin/page/UpdateProduct'));
 
+const ContactUs = lazy(() => import('./components/contact/ContactUs'));
+
+const PrivacyPolicy = lazy(() => import('./components/privacypolicy/PrivacyPolicy'));
+
+
+
 
 
 // import Dashboard from './pages/admin/Dashboard'
@@ -79,6 +85,8 @@ function App() {
               <UpdateProduct/>
             </ProtectedRouteForAdmin>
           } />
+          <Route path='/contactus' element={<ContactUs/>} />
+          <Route path='/PrivacyPolicy' element={<PrivacyPolicy/>} />
           <Route path='/*' element={<Nopage/>} />
         </Routes>
         <Toaster/>
