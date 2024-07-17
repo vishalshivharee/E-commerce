@@ -7,8 +7,8 @@ function Footer() {
             <div className="container px-5 py-24 mx-auto" >
                 <div className="flex flex-wrap md:text-left text-center order-first">
                     <div className="lg:w-1/4 md:w-1/2 w-full px-4">
-                        <h2 className="title-font font-smibold text-gray-900 tracking-widest text-sm mb-3" >CATEGORIES</h2>
-                        <nav className="list-none mb-10">
+                        <h2  className="title-font font-semibold text-gray-900 tracking-widest text-sm mb-3 uppercase ">CATEGORIES</h2>
+                        <nav className="list-none mb-10 flex flex-col gap-1">
                             <li>
                                 <Link to={'/'} className="text-gray-600 hover:text-gray-800" >Home</Link>
                             </li>
@@ -22,7 +22,7 @@ function Footer() {
                     </div>
                     <div className="lg:w-1/4 md:w-1/2 w-full px-4">
                         <h2 className="title-font font-semibold text-gray-900 tracking-widest text-sm mb-3 uppercase" >Customer Service</h2>
-                        <nav className="list-none mb-10">
+                        <nav className="list-none mb-10 flex flex-col gap-1">
                             <li>
                                 <Link to={'/ContactUs'} className="text-gray-600 hover:text-gray-800" >Contact Us</Link>
                             </li>
@@ -37,7 +37,7 @@ function Footer() {
 
                     <div className="lg:w-1/4 md:w-1/2 w-full px-4">
                         <h2 className="title-font font-semibold text-gray-900 tracking-widest text-sm mb-3 uppercase" >Services</h2>
-                        <nav className="list-none mb-10">
+                        <nav className="list-none mb-10 flex flex-col gap-1">
                             <li>
                                 <Link to={'/privacypolicy'} className="text-gray-600 hover:text-gray-800" >Privacy policy</Link>
                             </li>
