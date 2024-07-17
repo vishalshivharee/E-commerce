@@ -1,39 +1,33 @@
 // import { CalendarDaysIcon, HandRaisedIcon } from '@heroicons/react/24/outline'
 import { Link } from 'react-router-dom'
 
-export default function Footer() {
+function Footer() {
     return (
         <footer className="text-gray-600 body-font bg-gray-300">
             <div className="container px-5 py-24 mx-auto" >
                 <div className="flex flex-wrap md:text-left text-center order-first">
                     <div className="lg:w-1/4 md:w-1/2 w-full px-4">
-                        <h2 className="title-font font-medium text-gray-900 tracking-widest text-sm mb-3" >CATEGORIES</h2>
+                        <h2 className="title-font font-smibold text-gray-900 tracking-widest text-sm mb-3" >CATEGORIES</h2>
                         <nav className="list-none mb-10">
                             <li>
-                                <a className="text-gray-600 hover:text-gray-800" >Home</a>
+                                <Link to={'/'} className="text-gray-600 hover:text-gray-800" >Home</Link>
                             </li>
                             <li>
-                                <a className="text-gray-600 hover:text-gray-800" >Order</a>
+                                <Link to={'/order'} className="text-gray-600 hover:text-gray-800" >Order</Link>
                             </li>
                             <li>
-                                <a className="text-gray-600 hover:text-gray-800" >Local For Vocal</a>
-                            </li>
-                            <li>
-                                <a className="text-gray-600 hover:text-gray-800" >Cart</a>
+                                <Link to={'/cart'} className="text-gray-600 hover:text-gray-800" >Cart</Link>
                             </li>
                         </nav>
                     </div>
                     <div className="lg:w-1/4 md:w-1/2 w-full px-4">
-                        <h2 className="title-font font-medium text-gray-900 tracking-widest text-sm mb-3 uppercase" >Customer Service</h2>
+                        <h2 className="title-font font-semibold text-gray-900 tracking-widest text-sm mb-3 uppercase" >Customer Service</h2>
                         <nav className="list-none mb-10">
                             <li>
                                 <Link to={'/ContactUs'} className="text-gray-600 hover:text-gray-800" >Contact Us</Link>
                             </li>
                             <li>
-                                <Link to={'/about'} className="text-gray-600 hover:text-gray-800">About</Link>
-                            </li>
-                            <li>
-                                <Link to={'/Return'} className="text-gray-600 hover:text-gray-800" >Return policy</Link>
+                                <Link to={'/About'} className="text-gray-600 hover:text-gray-800">About</Link>
                             </li>
                             <li>
                                 <Link to={'/Term'} className="text-gray-600 hover:text-gray-800" >Terms of Services</Link>
@@ -42,10 +36,13 @@ export default function Footer() {
                     </div>
 
                     <div className="lg:w-1/4 md:w-1/2 w-full px-4">
-                        <h2 className="title-font font-medium text-gray-900 tracking-widest text-sm mb-3" >Services</h2>
+                        <h2 className="title-font font-semibold text-gray-900 tracking-widest text-sm mb-3 uppercase" >Services</h2>
                         <nav className="list-none mb-10">
                             <li>
                                 <Link to={'/privacypolicy'} className="text-gray-600 hover:text-gray-800" >Privacy policy</Link>
+                            </li>
+                            <li>
+                                <Link to={'/Return'} className="text-gray-600 hover:text-gray-800" >Return policy</Link>
                             </li>
 
                         </nav>
@@ -98,3 +95,5 @@ export default function Footer() {
         </footer>
     )
 }
+
+export default Footer

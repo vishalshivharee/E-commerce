@@ -39,6 +39,9 @@ const Term = lazy(() => import('./components/term/Term'));
 
 const Return = lazy(() => import('./components/returnpolicy/Return'));
 
+const About = lazy(() => import('./components/about/About'));
+
+
 
 
 
@@ -95,6 +98,8 @@ function App() {
           <Route path='/PrivacyPolicy' element={<PrivacyPolicy/>} />
           <Route path='/Term' element={<Term/>} />
           <Route path='/Return' element={<Return/>} />
+          <Route path='/About' element={<About/>} />
+
 
 
           
