@@ -7,7 +7,7 @@ function About() {
   return (
 
     <div >
-        <Navbar />
+        {/* <Navbar /> */}
         <div className='mt-12 mb-12 ml-3 mr-3'>
   <h3 className='h' style={{ textAlign: "center", }}>
     Welcome To <span id="W_Name1">Dimppycollection</span>
