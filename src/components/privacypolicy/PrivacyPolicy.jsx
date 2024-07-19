@@ -23,7 +23,7 @@ function PrivacyPolicy() {
     It is Dimppycollection's policy to respect your privacy regarding any
     information we may collect while operating our website. This Privacy Policy
     applies to{" "}
-    <a href="https://dimppycollection.vercel.app">
+    <a href="https://e-commerce-drab-gamma.vercel.app">
       {" "}
       dimppycollection.vercel.app
     </a>{" "}
@@ -41,6 +41,11 @@ function PrivacyPolicy() {
     Website, set forth the general rules and policies governing your use of our
     Website. Depending on your activities when visiting our Website, you may be
     required to agree to additional terms of service.
+  </p>
+  <p>
+  Dimpy Collection offers delivery within a timeframe of 3 to 15 working days.
+
+For the most up-to-date information on delivery timelines.
   </p>
   <h2 id="tableofcontents">Contents</h2>
   <p>Click below to jump to any section of this privacy policy</p>

@@ -24,6 +24,13 @@ function Return() {
     The following terms are applicable for any products that You purchased with
     Us.
   </p>
+  <p>
+  Return Processing Timeframe
+
+Please note that once your return parcel is received, it will be processed within a timeframe of 7 to 21 working days. This timeframe allows us to thoroughly examine your return and ensure it meets our return policy requirements.
+
+We understand that you may be eager for a resolution on your return, and we appreciate your patience as we work efficiently to process your request.
+  </p>
   <h2>Interpretation and Definitions</h2>
   <h3>Interpretation</h3>
   <p>
@@ -60,7 +67,7 @@ function Return() {
       <p>
         <strong>Website</strong> refers to dimppycollection, accessible from{" "}
         <a
-          href="https://dimppycollection.vercel.app"
+          href="https://e-commerce-drab-gamma.vercel.app"
           rel="external nofollow noopener"
           target="_blank"
         >

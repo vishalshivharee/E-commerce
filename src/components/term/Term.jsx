@@ -78,7 +78,7 @@ function Term() {
       <p>
         <strong>Website</strong> refers to dimppycollection, accessible from{" "}
         <a
-          href="https://dimppycollection.vercel.app"
+          href="https://e-commerce-drab-gamma.vercel.app"
           rel="external nofollow noopener"
           target="_blank"
         >
