@@ -71,7 +71,7 @@ We understand that you may be eager for a resolution on your return, and we appr
           rel="external nofollow noopener"
           target="_blank"
         >
-          https://dimppycollection.vercel.app
+          https://e-commerce-drab-gamma.vercel.app
         </a>
       </p>
     </li>

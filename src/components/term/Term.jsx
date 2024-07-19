@@ -82,7 +82,7 @@ function Term() {
           rel="external nofollow noopener"
           target="_blank"
         >
-          https://dimppycollection.vercel.app
+          https://e-commerce-drab-gamma.vercel.app
         </a>
       </p>
     </li>

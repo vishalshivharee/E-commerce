@@ -25,7 +25,7 @@ function PrivacyPolicy() {
     applies to{" "}
     <a href="https://e-commerce-drab-gamma.vercel.app">
       {" "}
-      dimppycollection.vercel.app
+      e-commerce-drab-gamma.vercel.app
     </a>{" "}
     (hereinafter, "us", "we", or "dimppycollection.vercel.app"). We respect your
     privacy and are committed to protecting personally identifiable information
