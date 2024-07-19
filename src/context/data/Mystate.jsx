@@ -148,7 +148,7 @@ function Mystate(props) {
   const getUserData = async () => {
     setLoading(true)
     try {
-      const result = await getDocs(collection(fireDB, "user"))
+      const result = await getDocs(collection(fireDB, "users"))
       const usersArray = [];
       result.forEach((doc) => {
         usersArray.push(doc.data());
@@ -169,8 +169,8 @@ function Mystate(props) {
 
 
   useEffect(() => {
+    getOrderData();
     getProductData();
-    // getOrderData()
     getUserData();
 
   }, []);

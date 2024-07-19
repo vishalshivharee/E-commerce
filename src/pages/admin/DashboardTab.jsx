@@ -9,7 +9,7 @@ import Mycontext from '../../context/data/Mycontext';
 
 function DashboardTab() {
     const context = useContext(Mycontext)
-    const { product, edithandle, deleteProduct, order, user } = context
+    const { product,  deleteProduct, order, user } = context
     let [isOpen, setIsOpen] = useState(false);
     console.log(order)
 
@@ -189,8 +189,8 @@ function DashboardTab() {
                                                     </th>
                                                 </tr>
                                             </thead>
-                                            {allorder.cartItems.map((item, index) => {
-                                                const {title,description,category,imageUrl,price} = item;
+                                            {allorder.cartitem.map((item, index) => {
+                                                const {title,description,category,imageurl,price} = item;
                                                 console.log(item)
                                                 return (
                                                     <tbody>
@@ -202,7 +202,7 @@ function DashboardTab() {
                                                                 {allorder.paymentId}
                                                             </td>
                                                             <th scope="row" className="px-6 py-4 font-medium text-black whitespace-nowrap">
-                                                                <img className='w-16' src={imageUrl} alt="img" />
+                                                                <img className='w-16' src={imageurl} alt="img" />
                                                             </th>
                                                             <td className="px-6 py-4 text-black ">
                                                                 {title}
@@ -259,27 +259,17 @@ function DashboardTab() {
                                                 Name
                                             </th>
                                             <th scope="col" className="px-6 py-3">
-                                                Address
-                                            </th>
-                                            <th scope="col" className="px-6 py-3">
-                                                Pincode
-                                            </th>
-                                            <th scope="col" className="px-6 py-3">
-                                                Phone Number
-                                            </th>
-                                            <th scope="col" className="px-6 py-3">
                                                 Email
                                             </th>
                                             <th scope="col" className="px-6 py-3">
-                                                Date
+                                                Uid
                                             </th>
                                         </tr>
                                     </thead>
                                    {user.map((item, index) => {
-                                     const { name, address, pincode, phoneNumber, email, date } = item;
+                                     const { name, address, pincode, phoneNumber, email, date, uid} = item;
                                     return (
                                         <tbody>
-
                                         <tr className="bg-gray-50 border-b  dark:border-gray-700">
                                             <td className="px-6 py-4 text-black ">
                                                 {index + 1}
@@ -291,16 +281,7 @@ function DashboardTab() {
                                                 {email}
                                             </td>
                                             <td className="px-6 py-4 text-black ">
-                                                {pincode}
-                                            </td>
-                                            <td className="px-6 py-4 text-black ">
-                                                {phoneNumber}
-                                            </td>
-                                            <td className="px-6 py-4 text-black ">
-                                                {email}
-                                            </td>
-                                            <td className="px-6 py-4 text-black ">
-                                                {date}
+                                                {uid}
                                             </td>
 
                                         </tr>
