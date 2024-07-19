@@ -85,12 +85,12 @@ function Cart() {
         )
       }
       var options = {
-        key: "rzp_test_s2VG2G2Hwc0Qd6",
-        key_secret: "13wTYUM144Kv98GujKu6kkB6",
+        key: "rzp_test_ZUjr86xuJEWRMV",
+        key_secret: "KmBii2gOsms08h5ki1yF4Fwf",
         amount: parseInt(grandTotal * 100),
         currency: "INR",
         order_receipt: 'order_rcptid_' + name,
-        name: "E-Bharat",
+        name: "Dimppy Collection",
         description: "for testing purpose",
         handler: function (response) {
           console.log(response)
