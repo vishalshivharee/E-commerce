@@ -7,7 +7,7 @@ function Return() {
         <div className='ml-7 mr-3 '>
   <h1>Return and Refund Policy</h1>
   <p>Last updated: July 16, 2024</p>
-  <p>Thank you for shopping at dimppycollection.</p>
+  <p>Thank you for shopping at dimpycollection.</p>
   <p>
     If, for any reason, You are not completely satisfied with a purchase We
     invite You to review our policy on refunds and returns. This Return and
@@ -65,13 +65,13 @@ We understand that you may be eager for a resolution on your return, and we appr
     </li>
     <li>
       <p>
-        <strong>Website</strong> refers to dimppycollection, accessible from{" "}
+        <strong>Website</strong> refers to dimpycollection, accessible from{" "}
         <a
-          href="https://e-commerce-drab-gamma.vercel.app"
+          href="https://dimpycollection.vercel.app"
           rel="external nofollow noopener"
           target="_blank"
         >
-          https://e-commerce-drab-gamma.vercel.app
+          https://dimpycollection.vercel.app
         </a>
       </p>
     </li>
@@ -146,7 +146,7 @@ We understand that you may be eager for a resolution on your return, and we appr
     You are responsible for the cost and risk of returning the Goods to Us. You
     should send the Goods at the following address:
   </p>
-  <p>Shop: dimppycollection store</p>
+  <p>Shop: dimpycollection store</p>
   <p>
     We cannot be held responsible for Goods damaged or lost in return shipment.
     Therefore, We recommend an insured and trackable mail service. We are unable

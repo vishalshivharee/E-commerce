@@ -10,10 +10,10 @@ function About() {
         <Navbar />
         <div className='mt-12 mb-12 ml-3 mr-3'>
   <h3 className='h' style={{ textAlign: "center", }}>
-    Welcome To <span id="W_Name1">Dimppycollection</span>
+    Welcome To <span id="W_Name1">Dimpycollection</span>
   </h3>
   <p>
-    <span id="W_Name2">Dimppycollection</span> is a Professional{" "}
+    <span id="W_Name2">Dimpycollection</span> is a Professional{" "}
     <span id="W_Type1">ecommerce</span> Platform. Here we will provide you only
     interesting content, which you will like very much. We're dedicated to
     providing you the best of <span id="W_Type2">ecommerce</span>, with a focus

@@ -25,7 +25,7 @@ const ContactUs = () => {
       <ul>
         <li>Phone: 8253011939</li>
         <li>Email: <a href="mailto:vishalshivhare7015.com">vishalshivhare7015@gmail.com</a></li>
-        <li>Social Media: <a href="https://www.twitter.com/example">@dimppycollection</a></li>
+        <li>Social Media: <a href="https://www.twitter.com/example">@dimpycollection</a></li>
       </ul>
       <p>Our operating hours are:</p>
       <ul>

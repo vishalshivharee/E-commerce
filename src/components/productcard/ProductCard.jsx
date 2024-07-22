@@ -16,7 +16,8 @@ function ProductCard() {
     const addCart = (product)=> {
         dispatch(addToCart(product));
         toast.success('Item added successfully');
-
+        
+        
     }
 
     useEffect(() => {
@@ -39,17 +40,17 @@ function ProductCard() {
                             <div    key={index} className="p-4 drop-shadow-lg " >
                                 <div  className="h-full border-2 hover:shadow-gray-100 hover:shadow-2xl transition-shadow duration-300 ease-in-out    border-gray-200 border-opacity-60 rounded-2xl overflow-hidden">
                                     <div onClick={()=> window.location.href = `/productinfo/${id}`} className="flex justify-center cursor-pointer loading-lazy" >
-                                        <img className=" rounded-2xl w-full h-80 p-10 bg-white hover:scale-110 transition-scale-110  duration-300 ease-in-out" src={imageurl} alt="blog" />
+                                        <img className=" rounded-2xl w-full h-80 p-10 bg-white hover:scale-110 transition-scale-110  duration-300 ease-in-out " src={imageurl} alt="blog" />
                                     </div>
                                     <div className="p-5 border-t-2">
-                                        <h2 className="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">Dimppy-Collection</h2>
+                                        <h2 className="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">Dimpy-Collection</h2>
                                         <h1 className="title-font text-lg font-medium text-gray-900 mb-3">{title.slice(0,13)}</h1>
                                         {/* <p className="leading-relaxed mb-3">{item.description.}</p> */}
                                         <p className="leading-relaxed mb-3">₹{price}</p>
                                         <div className=" flex justify-center">
                                             <button type="button" 
                                             onClick={()=> addCart(item)}
-                                            className="focus:outline-none text-white bg-pink-600 hover:bg-pink-700 focus:ring-4 focus:ring-purple-300 font-medium rounded-lg text-sm w-full  py-2">Add To Cart</button>
+                                            className="focus:outline-none text-white bg-pink-600 hover:bg-pink-700 focus:ring-4 focus:ring-purple-300 font-medium rounded-lg text-sm w-full  py-2 ">Add To Cart</button>
 
                                         </div>
                                     </div>

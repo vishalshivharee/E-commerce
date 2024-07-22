@@ -37,7 +37,7 @@ function Term() {
     <li>
       <p>
         <strong>Company</strong> (referred to as either "the Company", "We",
-        "Us" or "Our" in this Agreement) refers to dimppycollection.
+        "Us" or "Our" in this Agreement) refers to dimpycollection.
       </p>
     </li>
     <li>
@@ -78,11 +78,11 @@ function Term() {
       <p>
         <strong>Website</strong> refers to dimppycollection, accessible from{" "}
         <a
-          href="https://e-commerce-drab-gamma.vercel.app"
+          href="https://dimpycollection.vercel.app"
           rel="external nofollow noopener"
           target="_blank"
         >
-          https://e-commerce-drab-gamma.vercel.app
+          https://dimpycollection.vercel.app
         </a>
       </p>
     </li>

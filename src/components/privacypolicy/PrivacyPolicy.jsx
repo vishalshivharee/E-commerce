@@ -10,9 +10,9 @@ function PrivacyPolicy() {
     <strong>Effective Date: 16-07-2024</strong>
   </p>
   <h3>Your privacy is important to us</h3>
-  <p>Dimppycollection is located at:</p>
+  <p>Dimpycollection is located at:</p>
   <address>
-    Dimppycollection
+    Dimpycollection
     <br />
     Vijay Nagar Colony Indorama Ram Mander, pithampur <br />
     454775 Madhya pradesh , India
@@ -20,14 +20,14 @@ function PrivacyPolicy() {
     8839801203
   </address>
   <p>
-    It is Dimppycollection's policy to respect your privacy regarding any
+    It is Dimpycollection's policy to respect your privacy regarding any
     information we may collect while operating our website. This Privacy Policy
     applies to{" "}
-    <a href="https://e-commerce-drab-gamma.vercel.app">
+    <a href="https://dimpycollection.vercel.app">
       {" "}
-      e-commerce-drab-gamma.vercel.app
+      dimpycollection.vercel.app
     </a>{" "}
-    (hereinafter, "us", "we", or "dimppycollection.vercel.app"). We respect your
+    (hereinafter, "us", "we", or "dimpycollection.vercel.app"). We respect your
     privacy and are committed to protecting personally identifiable information
     you may provide us through the Website. We have adopted this privacy policy
     ("Privacy Policy") to explain what information may be collected on our
@@ -95,12 +95,12 @@ For the most up-to-date information on delivery timelines.
   </ol>
   <h2 id="PII">1. Personally-Identifying Information</h2>
   <p>
-    Certain visitors to Dimppycollection's websites choose to interact with
-    Dimppycollection in ways that require Dimppycollection to gather
+    Certain visitors to Dimpycollection's websites choose to interact with
+    Dimpycollection in ways that require Dimpycollection to gather
     personally-identifying information. The amount and type of information that
-    Dimppycollection gathers depends on the nature of the interaction. For
+    Dimpycollection gathers depends on the nature of the interaction. For
     example, we ask visitors who leave a comment at
-    https://dimppycollection.vercel.app to provide a username and email address.
+    dimpycollection.vercel.app to provide a username and email address.
   </p>
   <p>
     <a href="#tableofcontents">Back to table of contents</a>
@@ -135,34 +135,34 @@ For the most up-to-date information on delivery timelines.
     4. Protection of Certain Personally-Identifying Information
   </h2>
   <p>
-    Dimppycollection discloses potentially personally-identifying and
+    Dimpycollection discloses potentially personally-identifying and
     personally-identifying information only to those of its employees,
     contractors and affiliated organizations that (i) need to know that
     information in order to process it on Dimppycollection's behalf or to
-    provide services available at Dimppycollection's website, and (ii) that have
+    provide services available at Dimpycollection's website, and (ii) that have
     agreed not to disclose it to others. Some of those employees, contractors
     and affiliated organizations may be located outside of your home country; by
-    using Dimppycollection's website, you consent to the transfer of such
-    information to them. Dimppycollection will not rent or sell potentially
+    using Dimpycollection's website, you consent to the transfer of such
+    information to them. Dimpycollection will not rent or sell potentially
     personally-identifying and personally-identifying information to anyone.
     Other than to its employees, contractors and affiliated organizations, as
-    described above, Dimppycollection discloses potentially
+    described above, Dimpycollection discloses potentially
     personally-identifying and personally-identifying information only in
     response to a subpoena, court order or other governmental request, or when
-    Dimppycollection believes in good faith that disclosure is reasonably
-    necessary to protect the property or rights of Dimppycollection, third
+    Dimpycollection believes in good faith that disclosure is reasonably
+    necessary to protect the property or rights of Dimpycollection, third
     parties or the public at large.
   </p>
   <p>
-    If you are a registered user of https://dimppycollection.vercel.app and have
-    supplied your email address, Dimppycollection may occasionally send you an
+    If you are a registered user of https://dimpycollection.vercel.app and have
+    supplied your email address, Dimpycollection may occasionally send you an
     email to tell you about new features, solicit your feedback, or just keep
     you up to date with what's going on with Dimppycollection and our products.
     We primarily use our blog to communicate this type of information, so we
     expect to keep this type of email to a minimum. If you send us a request
     (for example via a support email or via one of our feedback mechanisms), we
     reserve the right to publish it in order to help us clarify or respond to
-    your request or to help us support other users. Dimppycollection takes all
+    your request or to help us support other users. Dimpycollection takes all
     measures reasonably necessary to protect against the unauthorized access,
     use, alteration or destruction of potentially personally-identifying and
     personally-identifying information.
@@ -172,7 +172,7 @@ For the most up-to-date information on delivery timelines.
   </p>
   <h2 id="Cookies">5. Cookies</h2>
   <p>
-    To enrich and perfect your online experience, Dimppycollection uses
+    To enrich and perfect your online experience, Dimpycollection uses
     "Cookies", similar technologies and services provided by others to display
     personalized content, appropriate advertising and store your preferences on
     your computer.
@@ -180,31 +180,31 @@ For the most up-to-date information on delivery timelines.
   <p>
     A cookie is a string of information that a website stores on a visitor's
     computer, and that the visitor's browser provides to the website each time
-    the visitor returns. Dimppycollection uses cookies to help Dimppycollection
+    the visitor returns. Dimppycollection uses cookies to help Dimpycollection
     identify and track visitors, their usage of
-    https://dimppycollection.vercel.app, and their website access preferences.
-    Dimppycollection visitors who do not wish to have cookies placed on their
+    https://dimpycollection.vercel.app, and their website access preferences.
+    Dimpycollection visitors who do not wish to have cookies placed on their
     computers should set their browsers to refuse cookies before using
-    Dimppycollection's websites, with the drawback that certain features of
-    Dimppycollection's websites may not function properly without the aid of
+    Dimpycollection's websites, with the drawback that certain features of
+    Dimpycollection's websites may not function properly without the aid of
     cookies.
   </p>
   <p>
     By continuing to navigate our website without changing your cookie settings,
-    you hereby acknowledge and agree to Dimppycollection's use of cookies.
+    you hereby acknowledge and agree to Dimpycollection's use of cookies.
   </p>
   <p>
     <a href="#tableofcontents">Back to table of contents</a>
   </p>
   <h2 id="Ecommerce">6. E-commerce</h2>
   <p>
-    Those who engage in transactions with Dimppycollection – by purchasing
-    Dimppycollection's services or products, are asked to provide additional
+    Those who engage in transactions with Dimpycollection – by purchasing
+    Dimpycollection's services or products, are asked to provide additional
     information, including as necessary the personal and financial information
-    required to process those transactions. In each case, Dimppycollection
+    required to process those transactions. In each case, Dimpycollection
     collects such information only insofar as is necessary or appropriate to
-    fulfill the purpose of the visitor's interaction with Dimppycollection.
-    Dimppycollection does not disclose personally-identifying information other
+    fulfill the purpose of the visitor's interaction with Dimpycollection.
+    Dimpycollection does not disclose personally-identifying information other
     than as described below. And visitors can always refuse to supply
     personally-identifying information, with the caveat that it may prevent them
     from engaging in certain website-related activities.
@@ -214,7 +214,7 @@ For the most up-to-date information on delivery timelines.
   </p>
   <h2 id="Changes">7. Privacy Policy Changes</h2>
   <p>
-    Although most changes are likely to be minor, Dimppycollection may change
+    Although most changes are likely to be minor, Dimpycollection may change
     its Privacy Policy from time to time, and in Dimppycollection's sole
     discretion. Dimppycollection encourages visitors to frequently check this
     page for any changes to its Privacy Policy. Your continued use of this site
